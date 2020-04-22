@@ -1,2 +1,4 @@
 # Le-Jongl-heure
-Full game
+
+![manual](https://github.com/LeJonglheure/Le-Jongl-heure/blob/master/manual.png)
+
