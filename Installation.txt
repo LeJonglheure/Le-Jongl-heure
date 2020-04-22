@@ -1,0 +1,36 @@
+CD   " Le Jongl'heure ".
+
+1. Conseils pour l'utilisation du CD «Le Jongl'heure».
+
+Pour que le programme puisse s'exécuter, il est nécessaire de disposer sur son ordinateur d'une version récente de JAVA (Sun). 
+
+Vous pouvez notamment la télécharger à l'adresse suivante :
+http://www.java.com/fr/download/index.jsp
+Choisissez la version Java selon votre système d'exploitation, téléchargez-la et installez-la.
+
+Après avoir inséré le CD, choisissez l'option «Ouvrir le dossier pour afficher les fichiers».
+Ensuite, cliquez sur le fichier choisi :
+soit " Installation " pour connaître les Conseils et les Droits d'utilisation du CD " Le Jongl'heure", soit " Manuel " pour découvrir le Règlement du Jeu " Le Jongl'heure " sur CD ; soit  " LeJonglheurepourDebutants ", soit " LeJonglheure " pour commencer une partie du jeu selon l'expérience des joueurs.
+
+
+2. Droits d'utilisation.
+
+Le CD-rom fourni avec la boîte de jeu «Le Jongl'heure» ne peut être vendu séparément.
+Il est certifié sans virus connu.
+Bien que les programmes fournis ont été testés sur de nombreuses configurations, aucune garantie ne peut être apportée contre un dysfonctionnement éventuel,
+un «bug», un quelconque dommage, une perte de données ou une perte d'exploitation qui pourrait survenir lors de l'utilisation du programme.
+Toute copie autre que destinée à un usage personnel est strictement interdite.
+Tous droits d'auteurs réservés. ©  Pierre SCHARFF 2008 - marque et modèles déposés
+
+Configuration minimale requise:
+Processeur Intel ou compatible d'une fréquence de 1 GHz
+Mémoire centrale de 1 Giga octets
+Présence d'un lecteur de CD
+Système d'exploitation Windows XP, Vista, 2000 ou 2003 ou Linux ou tout autre système d'exploitation sur lequel JAVA peut tourner.
+
+Aux termes de la loi belge sur le droit d'auteur (lois du 30 juin 1994 et 3 avril 1995), seul l'auteur a le droit de reproduire cette plaquette ou
+d'en assurer la reproduction de quelque manière et sous quelque forme que ce soit.
+Toute photocopie ou reproduction sous une autre forme, notamment pour un matériel de jeu, est donc faite en violation de la loi.
+
+
+©	Pierre SCHARFF, éditeur, 2008
